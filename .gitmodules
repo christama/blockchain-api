@@ -4,3 +4,4 @@
 [submodule "irn"]
 	path = irn
 	url = git@github.com:WalletConnectFoundation/irn.git
+ 
